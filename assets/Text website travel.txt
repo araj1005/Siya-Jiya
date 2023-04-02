@@ -1,0 +1,78 @@
+* HOME
+home__data-subtitle
+Discover your Gifts
+
+home__data-title
+Explore The <br> Best <b>Beautiful <br> Gifts</b>
+
+home__social
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+home__info-title
+5 best Product to Gifts
+
+
+* ABOUT
+section__title
+More Information <br> About The Best Product
+
+about__description
+You can find the most beautiful and pleasant gifts at the best prices with special discounts, you choose the product we will guide you all the way to wait, get your order now.
+
+* DISCOVER
+section__title
+Discover the most <br> attractive Gifts
+
+discover__description
+20+ Product Type available
+
+
+* EXPERIENCE
+section__title
+With Our Experience <br> We Will Serve You
+
+experience__description
+Year <br> Experience
+Complete <br> tours
+Tourist <br> Destination
+
+* VIDEO
+section__title
+Video Tour
+
+video__description
+Find out more with our video of the most beautiful and pleasant Gifts for you and your family.
+
+
+* PLACES
+section__title
+Choose Your Order
+
+* SUBSCRIBE
+section__title
+Subscribe Our <br> Newsletter
+
+subscribe__description
+Subscribe to our newsletter and get a special 30% discount.
+
+* FOOTER
+footer__description
+Siya Jiya where you choose the <br> Gifts , we offer you the <br> Love.
+
+footer__social
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+https://www.youtube.com/
+
+
+footer__copy
+&#169; 2023 @araj All rigths reserved.
+
+footer__terms-link
+Terms & Agreements
+Privacy Policy
+
+
