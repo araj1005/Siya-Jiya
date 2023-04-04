@@ -9,6 +9,4 @@ for change in colour change colour on css >> style.css page withnhue colour in n
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 # Siya-Jiya
-
-#link
 https://siyajiya.netlify.app/
